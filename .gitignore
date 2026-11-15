@@ -1,0 +1,24 @@
+# Local secrets and data
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+*.sqlite*
+*.db
+*.sql
+*.log
+
+# Local archives and build output
+*.zip
+*.tar
+*.gz
+node_modules/
+.next/
+dist/
+build/
+coverage/
+__pycache__/
+.DS_Store
+Thumbs.db
